@@ -1,6 +1,10 @@
 # Time Go WebSite
 ❗ Un code qui permet de voir le temps pour accéder a un site totalement fait en Python par moi, et en français.
 
+__Dépendences :__
+
+```pip install urllib.request```
+
 💖 Enjoy !
 
 🎫 Mon Discord: Gabin#7955
